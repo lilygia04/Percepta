@@ -129,6 +129,7 @@ SHIELD_DELAY=0.5
 
 ---
 ## Future  Improvements
+- Integration to publicly shared computers (e.g libraries computers, banks, etc.)
 - Cloud sync for face database
 - Mobile companion app
 - Encrypted embedding storage
