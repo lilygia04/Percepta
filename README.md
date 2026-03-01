@@ -31,7 +31,7 @@ It enables:
 - Event logging
 
 This project is designed as a modular, expandable computer vision project for security, privacy, and automation systems.
-
+[Presentation](https://www.figma.com/deck/iwGIxZrvbIZKBx3wqq64KL/percepta?node-id=1-139&t=kur1r6K1qycawXEm-1)
 ---
 
 ## Features
