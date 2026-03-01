@@ -1,8 +1,3 @@
-<!-- ======================================= -->
-<!--                LOGO / BANNER           -->
-<!-- Replace the src with your image path   -->
-<!-- ======================================= -->
-
 <p align="center">
   <img src="Percepta.png" alt="Project Banner" width="100%">
 </p>
