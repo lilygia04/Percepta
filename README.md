@@ -104,7 +104,7 @@ python main.py
 ```
 ### Web-Based Event Logger
 
-We have also developed a web user interface that show detailed logs on the application. To run it download the Pharo Launcher and import the `WebLogger.image` file in the repository. Once the playground shows up you can click run and the web ui will connect to the Percepta instance.
+We have also developed a web user interface that show detailed logs on the application. To run it download the Pharo Launcher and import the `WebLogger.image` file in the repository. Once the playground shows up you can click run and the web ui will connect to the Percepta instance. The code for it is available for inspection at the `PrivacyLogger` folder. 
 
 ---
 ## Configuration
